@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @ManisaBachtiar
-- 👀 I’m interested in many things, such as coding, drawing, learning english.
-- 🌱 I’m currently learning coding and english as well, i will try to master front end basic, and i want to be fullstack developer
-- 📫 How to reach me, you can follow me on facebook, adeeba rahmi which using cat as a dp
 
-<!---
-ManisaBachtiar/ManisaBachtiar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @ManisaBachtiar I'm usually called Nisa.
+- 👀 I’m interested in many things, such as coding, designing and learning english. I am a student at vocational high school, I’m currently learning design on Figma and Photoshop, I would become a UX designer and front-end developer. I usually learn javascript and css now, I would like to mastered javascript, jQuery and React in this month.
+
+
