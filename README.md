@@ -2,7 +2,7 @@
 <h2> Hi there! My name is Manisa Bachtiar </h2>
 
 * 👩 Pronouns: She/her
-* 🌱 I’m currently learning javascript and design on Canva.
+* 🌱 I’m currently learning javascript and design on Photoshop.
 * 📫 How to reach me: manisabachtiar17@gmail.com
 
 ---
